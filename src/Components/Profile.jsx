@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Collapse } from 'react-bootstrap'
-import uploadeProfile from '../assets/images/uploadPic.png'
+import uploadeProfile from '../assets/Images/uploadPic.png'
 import { SERVER_URL } from '../Services/serverUrl';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
